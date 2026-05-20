@@ -1,5 +1,5 @@
-# Space-X-Launches-Analysis
-## Exploratory data analysis, using the Jupyter Notebook environment, where the different steps of the data analysis process are followed.
+# 🚀 Space-X-Launches-Analysis
+## 📊 Exploratory data analysis, using the Jupyter Notebook environment, where the different steps of the data analysis process are followed.
 ------
 1. We started defining the problem: Perform a thorough analysis on the data available in the API, studying the percetnage of successful launches under different conditions and seeking to establish a model for prediction of first-stage-recovery.
 
@@ -14,4 +14,4 @@
 6.  Several Machine Learning models were trained with the available data, splitting it into training and testing data. Models were trained with training set, refining the values of the hyperparameters with GridSearchCV, and their corresponding test scores were obtained using the testing subset.
     Finally, their performance as otucome predictors was visually evaluated generating the corresponding confusion matrix for each model.
 
-## We concluded that the trained models had an acceptable accuracy for outcome prediction (test score aroung 0.83, except for Decission Tree Model), yet they presented problems with false positive detection
+## 👉 We concluded that the trained models had an acceptable accuracy for outcome prediction (test score aroung 0.83, except for Decission Tree Model), yet they presented problems with false positive detection
