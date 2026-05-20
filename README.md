@@ -15,3 +15,5 @@
     Finally, their performance as otucome predictors was visually evaluated generating the corresponding confusion matrix for each model.
 
 ## 👉 We concluded that the trained models had an acceptable accuracy for outcome prediction (test score aroung 0.83, except for Decission Tree Model), yet they presented problems with false positive detection
+
+## For further details and insights, feel free to review the PDF file named Data Science Capstone Project Report.pdf in this repository
